@@ -1,2 +1,2 @@
 # Go_Programming
-Go Programming studies and projects :pencil:
+Go Programming studies & projects :pencil:
