@@ -1,8 +1,8 @@
 package main
 
-import "golesson/defer_statement"
-
-//import "golesson/arrays"
+import (
+	"golesson/restful"
+)
 
 //"golesson/conditions"
 //"golesson/variables"
@@ -47,6 +47,10 @@ func main() {
 	//carpim := ciftSayiToplam * tekSayiToplam
 	//fmt.Println("Çarpım:", carpim) asenkron çalışma
 	//interfaces.Demo2()
-	defer_statement.B()
-	defer_statement.Test()
+	//defer_statement.B()
+	//defer_statement.Demo3()
+	//error_handling.Demo3()
+	//fmt.Println(error_handling.Demo4(333))
+	//string_functions.Demo2()
+	restful.Demo2()
 }
